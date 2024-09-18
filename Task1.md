@@ -141,6 +141,8 @@ Participants will be graded on a total of 100 points, divided as follows:
 
 
 
+### Bonus Task is optional.
+
 
 ### **Bonus Task: Autonomous Obstacle Avoidance in Gazebo Simulator**
 
