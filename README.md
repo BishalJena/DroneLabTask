@@ -29,6 +29,8 @@ If you face any issues, feel free to reach out to us. We're happy to assist, but
 
 Submit your work using the following link: [Submission Link](#)
 
-**Deadline:** 26th September, End of Day (EOD).
+## Deadline
+
+26th September, End of Day (EOD).
 
 We look forward to seeing you in the team!
