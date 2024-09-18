@@ -31,6 +31,6 @@ Submit your work using the following link: [Submission Link](#)
 
 ## Deadline
 
-26th September, End of Day (EOD).
+**26th September, End of Day (EOD).**
 
 We look forward to seeing you in the team!
