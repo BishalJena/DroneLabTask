@@ -141,10 +141,7 @@ Participants will be graded on a total of 100 points, divided as follows:
 
 
 
-### Bonus Task is optional.
-
-
-### **Bonus Task: Autonomous Obstacle Avoidance in Gazebo Simulator**
+### **Bonus Task[Optional]: Autonomous Obstacle Avoidance in Gazebo Simulator**
 
 #### **Task Overview**
 In this bonus task, participants are required to develop and implement an autonomous obstacle avoidance system for a drone using the Gazebo simulator and ROS. The drone must navigate through an environment filled with static and dynamic obstacles, avoiding collisions while following a predefined path. This task is designed to test the participants' understanding of sensor fusion, real-time decision-making, and dynamic path planning.
