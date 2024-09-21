@@ -47,7 +47,7 @@ If we find your submission compelling, you will proceed to the interview round. 
 ---
 
 ### Submission Details
-- Submit your **PDF write-up** via the [Submission Link].
+- Submit your **PDF write-up** via the [[Submission Link](https://forms.gle/qtntK5twTcYwK52aA)].
 - **Deadline**: 26th September, End of Day (EOD).
 
 We look forward to reading your submission and possibly seeing you in the interview round!
