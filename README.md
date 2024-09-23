@@ -34,6 +34,6 @@ Submit your work using the following link: [Submission Link](https://forms.gle/q
 
 ## Deadline
 
-**29th September, End of Day (EOD).**
+**2nd October, End of Day (EOD).**
 
 We look forward to seeing you in the team!
