@@ -18,7 +18,7 @@ This task focuses on object detection, specifically detecting tumors in cases of
 If you're unable to complete the previous two tasks, yet you feel we should hire you- explain here why should we hire you?
 We would anyway prefer people who did the above tasks, this is for getting that one enthusiastist person who'd have to pass the interview round.
 
-[You're supposed to do only one of the 3 tasks. Check the task files for more info.](#)
+[You're supposed to do only one of the 3 tasks. Check the task files for more info.[not a link, don't click]](#)
 
 ## Resources
 
