@@ -31,7 +31,7 @@ If you face any issues, feel free to reach out to us. We're happy to assist, but
 
 ## Submission
 
-Submit your work using the following link: [Submission Link](https://forms.gle/qtntK5twTcYwK52aA)
+Submit your work using the following link: [Submission Link (yeah, clickable!)](https://forms.gle/qtntK5twTcYwK52aA)
 
 ## Deadline
 
