@@ -11,8 +11,8 @@ This repository contains three markdown files:
 ### Task 1: Drone Simulation in Gazebo
 This task involves simulating a drone in the Gazebo environment.
 
-### Task 2: Object Detection (Breast Cancer Tumor Detection)
-This task focuses on object detection, specifically detecting tumors in cases of breast cancer.
+### Task 2: Object Detection (Brain Tumor Detection)
+This task focuses on object detection, specifically detecting brain tumors.
 
 ### Task 3: Open-Ended Task
 If you're unable to complete the previous two tasks, yet you feel we should hire you- explain here why should we hire you?
