@@ -35,6 +35,10 @@ Submit your work using the following link: [Submission Link (yeah, clickable!)](
 
 ## Deadline
 
-**2nd October, End of Day (EOD).**
+~~**2nd October, End of Day (EOD).**~~
+
+Extended to - 
+
+**6th October, End of Day (EOD).**
 
 We look forward to seeing you in the team!
